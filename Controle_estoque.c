@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <locale.h>
 #include <stdlib.h>
-
+// trabalho
 struct produto
 {
     char nome[30];
